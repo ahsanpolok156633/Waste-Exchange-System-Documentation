@@ -1,7 +1,7 @@
 # Waste Exchange System
 
-Description:
-• Software Requirements Specification (SRS) Documentation for	Waste Exchange System
+### Description:
+#### Software Requirements Specification (SRS) Documentation for	Waste Exchange System
 
 Supervisor:
 
