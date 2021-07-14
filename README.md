@@ -1,4 +1,4 @@
-# Waste Exchange System
+# Waste Exchange System (Documentation)
 **Description:**
 Software Requirements Specification (SRS) Documentation for Waste Exchange System. This system is another initiative to save the world from pollution. The “Waste Exchange System” we propose will not only make waste materials collection more organized but also motivate people to collect and store their wastes rather than throwing them. Our system collects wastes like e-waste, plastics, papers, and rewards the waste provider according to the amount of waste. The wastes are then delivered to the waste-collecting companies. Since waste providers will be rewarded with goods in exchange for wastes they will be more enthusiastic to store their waste and benefit from them rather than throwing those random places.  
 
